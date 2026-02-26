@@ -7,7 +7,7 @@
     <a href="https://github.com/segmentio/evergreen/actions">
         <img src="https://github.com/segmentio/evergreen/actions/workflows/ci.yml/badge.svg">
     </a>
-    <br>
+    <br> 
     <br>
 </div>
 
