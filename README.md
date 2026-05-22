@@ -108,3 +108,5 @@ Evergreen is released under the MIT license.
 The BlueprintJS icons are licensed under a [custom Apache 2.0 license](https://github.com/palantir/blueprint/blob/develop/LICENSE).
 
 Copyright © 2021 Segment.io, Inc.
+
+<!-- cronos-trigger: 2026-05-22T02:14:15Z -->
